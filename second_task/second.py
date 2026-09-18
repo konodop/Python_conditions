@@ -1,4 +1,4 @@
-year = int(input("Проверяемый год: "))
+year = input("Проверяемый год: ")
 year_type = ""
 if year >= 0:
     year_num = year % 12

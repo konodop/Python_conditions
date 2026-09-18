@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="17oimdg43dmaj84o5PXe">
-    <mxGraphModel dx="1978" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1485" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,7 +246,7 @@
         <mxCell id="TUBdjnfKqNM4gfpLYQQ4-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="11" vertex="1">
           <mxGeometry height="30" width="45" x="1005" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="TUBdjnfKqNM4gfpLYQQ4-117" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="&lt;font&gt;year_num остаток при делении на 12&lt;/font&gt;" vertex="1">
+        <mxCell id="TUBdjnfKqNM4gfpLYQQ4-117" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" value="&lt;font&gt;year_num остаток при делении year на 12&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="90" as="geometry" />
         </mxCell>
         <mxCell id="TUBdjnfKqNM4gfpLYQQ4-118" edge="1" parent="1" source="TUBdjnfKqNM4gfpLYQQ4-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;" target="TUBdjnfKqNM4gfpLYQQ4-7">
