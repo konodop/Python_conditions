@@ -1,6 +1,7 @@
 year = int(input("Проверяемый год: "))
 
 year_num = year % 12
+
 match year_num:
     case 0:
         year_type = "год обезьяны"

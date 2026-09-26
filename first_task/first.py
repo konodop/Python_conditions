@@ -1,5 +1,6 @@
 from math import (asin, log, e, pow)
 
+
 a, b, x = map(float, input("введите значения a, b, x через пробел\n").split())
 y = 0
 
